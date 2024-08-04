@@ -1,0 +1,53 @@
+Create some visualizations and add them to dashboards using IBM Cognos Analytics
+On the Current Technology Usage dashboard tab:
+
+In the first rectangle (Panel 1):
+Capture Top 10 LanguageWorkedWith.
+Visualize as a Bar chart.
+
+In the second rectangle (Panel 2):
+Capture Top 10 DatabaseWorkedWith.
+Visualize as a Column chart.
+
+In the third rectangle (Panel 3):
+Capture PlatformWorkedWith.
+Visualize as a Word cloud chart.
+
+In the fourth rectangle (Panel 4):
+Capture Top 10 WebFrameWorkedWith.
+Visualize as a Hierarchy bubble chart.
+
+On the Future Technology Trend dashboard tab:
+In the first rectangle (Panel 1):
+Capture Top 10 LanguageDesireNextYear.
+Visualize as a Bar chart.
+
+In the second rectangle (Panel 2):
+Capture Top 10 DatabaseDesireNextYear.
+Visualize as a Column chart.
+
+In the third rectangle (Panel 3):
+capture PlatformDesireNextYear.
+Visualize as a Tree map chart.
+
+In the fourth rectangle (Panel 4):
+Capture Top 10 WebFrameDesireNextYear.
+Visualize as a Hierarchy bubble chart.
+
+On the Demographics dashboard tab:
+Use Filters for this tab feature to filter out entries of other types except Man and Woman from the data point Gender.
+In the first rectangle (Panel 1):
+Capture Respondent classified by Gender.
+Visualize as a Pie chart.
+
+In the second rectangle (Panel 2):
+Capture Respondent Count for Countries.
+Visualize as a Map chart.
+
+In the third rectangle (Panel 3):
+Capture Respondent Count by Age.
+Visualize as a Line chart.
+
+In the fourth rectangle (Panel 4):
+Capture Respondent Count by Gender, classified by Formal Education Level.
+Visualize as a Stacked bar chart.
